@@ -1,0 +1,3 @@
+ipython notebook includes the notebook
+other file is the presentation
+data source:https://machinehack.com/hackathons/data_science_student_championship_south_zone/overview
